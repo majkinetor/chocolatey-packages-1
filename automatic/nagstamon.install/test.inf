@@ -1,0 +1,6 @@
+[Setup]
+Lang=default
+Dir=C:\Testing\Nagstamon
+Group=Nagstamon Custom
+NoIcons=0
+Tasks=
